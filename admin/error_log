@@ -1,0 +1,585 @@
+[18-Apr-2022 01:11:40 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/admin/upload_products.php on line 27
+[18-Apr-2022 01:11:40 America/New_York] PHP Warning:  Undefined array key "product_name" in /home/srsomgcd/krishihut.com/admin/upload_products.php on line 32
+[18-Apr-2022 01:11:40 America/New_York] PHP Warning:  Undefined array key "product_price" in /home/srsomgcd/krishihut.com/admin/upload_products.php on line 34
+[18-Apr-2022 01:11:40 America/New_York] PHP Warning:  Undefined array key "vendor_name" in /home/srsomgcd/krishihut.com/admin/upload_products.php on line 36
+[18-Apr-2022 01:11:40 America/New_York] PHP Warning:  Undefined array key "special_prices" in /home/srsomgcd/krishihut.com/admin/upload_products.php on line 38
+[18-Apr-2022 01:13:32 America/New_York] PHP Warning:  move_uploaded_file(../assets/img/daab-green-coconut-1-pcs.jpg): Failed to open stream: No such file or directory in /home/srsomgcd/krishihut.com/admin/upload_products.php on line 21
+[18-Apr-2022 01:13:32 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpWSb2zm&quot; to &quot;../assets/img/daab-green-coconut-1-pcs.jpg&quot; in /home/srsomgcd/krishihut.com/admin/upload_products.php on line 21
+[18-Apr-2022 01:20:03 America/New_York] PHP Warning:  Undefined variable $conn in /home/srsomgcd/krishihut.com/admin/upload_products.php on line 41
+[18-Apr-2022 01:20:03 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/srsomgcd/krishihut.com/admin/upload_products.php:41
+Stack trace:
+#0 /home/srsomgcd/krishihut.com/admin/upload_products.php(41): mysqli_query()
+#1 {main}
+  thrown in /home/srsomgcd/krishihut.com/admin/upload_products.php on line 41
+[18-Apr-2022 01:20:31 America/New_York] PHP Warning:  Undefined variable $conn in /home/srsomgcd/krishihut.com/admin/upload_products.php on line 41
+[18-Apr-2022 01:20:31 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/srsomgcd/krishihut.com/admin/upload_products.php:41
+Stack trace:
+#0 /home/srsomgcd/krishihut.com/admin/upload_products.php(41): mysqli_query()
+#1 {main}
+  thrown in /home/srsomgcd/krishihut.com/admin/upload_products.php on line 41
+[24-Apr-2022 00:38:16 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/admin/upload_products.php on line 28
+[24-Apr-2022 00:38:16 America/New_York] PHP Warning:  Undefined array key "product_name" in /home/srsomgcd/krishihut.com/admin/upload_products.php on line 33
+[24-Apr-2022 00:38:16 America/New_York] PHP Warning:  Undefined array key "product_price" in /home/srsomgcd/krishihut.com/admin/upload_products.php on line 35
+[24-Apr-2022 00:38:16 America/New_York] PHP Warning:  Undefined array key "vendor_name" in /home/srsomgcd/krishihut.com/admin/upload_products.php on line 37
+[24-Apr-2022 00:38:16 America/New_York] PHP Warning:  Undefined array key "special_prices" in /home/srsomgcd/krishihut.com/admin/upload_products.php on line 39
+[24-Apr-2022 01:11:43 America/New_York] PHP Warning:  Undefined variable $text in /home/srsomgcd/krishihut.com/vendor/index.php on line 43
+[24-Apr-2022 01:11:43 America/New_York] PHP Warning:  Undefined variable $text in /home/srsomgcd/krishihut.com/vendor/index.php on line 46
+[24-Apr-2022 01:15:44 America/New_York] PHP Warning:  Undefined variable $text in /home/srsomgcd/krishihut.com/vendor/index.php on line 43
+[24-Apr-2022 01:15:44 America/New_York] PHP Warning:  Undefined variable $text in /home/srsomgcd/krishihut.com/vendor/index.php on line 46
+[24-Apr-2022 01:16:03 America/New_York] PHP Warning:  Undefined variable $text in /home/srsomgcd/krishihut.com/vendor/index.php on line 43
+[24-Apr-2022 01:16:03 America/New_York] PHP Warning:  Undefined variable $text in /home/srsomgcd/krishihut.com/vendor/index.php on line 46
+[24-Apr-2022 01:19:48 America/New_York] PHP Warning:  Undefined variable $text in /home/srsomgcd/krishihut.com/vendor/index.php on line 43
+[24-Apr-2022 01:19:48 America/New_York] PHP Warning:  Undefined variable $text in /home/srsomgcd/krishihut.com/vendor/index.php on line 46
+[24-Apr-2022 01:19:51 America/New_York] PHP Warning:  Undefined variable $text in /home/srsomgcd/krishihut.com/vendor/index.php on line 43
+[24-Apr-2022 01:19:51 America/New_York] PHP Warning:  Undefined variable $text in /home/srsomgcd/krishihut.com/vendor/index.php on line 46
+[24-Apr-2022 01:19:58 America/New_York] PHP Warning:  Undefined variable $text in /home/srsomgcd/krishihut.com/vendor/index.php on line 43
+[24-Apr-2022 01:19:58 America/New_York] PHP Warning:  Undefined variable $text in /home/srsomgcd/krishihut.com/vendor/index.php on line 46
+[24-Apr-2022 01:22:05 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/vendor/session.php on line 6
+[24-Apr-2022 01:22:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/vendor/session.php on line 11
+[24-Apr-2022 01:23:49 America/New_York] PHP Warning:  Undefined variable $text in /home/srsomgcd/krishihut.com/vendor/index.php on line 43
+[24-Apr-2022 01:23:49 America/New_York] PHP Warning:  Undefined variable $text in /home/srsomgcd/krishihut.com/vendor/index.php on line 46
+[24-Apr-2022 01:24:04 America/New_York] PHP Warning:  Undefined variable $text in /home/srsomgcd/krishihut.com/vendor/index.php on line 43
+[24-Apr-2022 01:24:04 America/New_York] PHP Warning:  Undefined variable $text in /home/srsomgcd/krishihut.com/vendor/index.php on line 46
+[24-Apr-2022 01:26:55 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[24-Apr-2022 01:26:55 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[24-Apr-2022 01:28:43 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[24-Apr-2022 01:28:55 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[24-Apr-2022 01:28:56 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/srsomgcd/krishihut.com/vendor/session.php:10
+Stack trace:
+#0 /home/srsomgcd/krishihut.com/vendor/session.php(10): mysqli_fetch_assoc()
+#1 /home/srsomgcd/krishihut.com/vendor/dashboard.php(3): include('/home/srsomgcd/...')
+#2 {main}
+  thrown in /home/srsomgcd/krishihut.com/vendor/session.php on line 10
+[24-Apr-2022 01:31:51 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[24-Apr-2022 01:31:58 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[24-Apr-2022 01:32:05 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[24-Apr-2022 01:34:18 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 28
+[24-Apr-2022 01:34:18 America/New_York] PHP Warning:  Undefined array key "product_name" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 33
+[24-Apr-2022 01:34:18 America/New_York] PHP Warning:  Undefined array key "product_price" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 35
+[24-Apr-2022 01:34:18 America/New_York] PHP Warning:  Undefined array key "vendor_name" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 37
+[24-Apr-2022 01:34:18 America/New_York] PHP Warning:  Undefined array key "special_prices" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 39
+[24-Apr-2022 01:35:51 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 28
+[24-Apr-2022 01:35:51 America/New_York] PHP Warning:  Undefined array key "product_name" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 33
+[24-Apr-2022 01:35:51 America/New_York] PHP Warning:  Undefined array key "product_price" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 35
+[24-Apr-2022 01:35:51 America/New_York] PHP Warning:  Undefined array key "vendor_name" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 37
+[24-Apr-2022 01:35:51 America/New_York] PHP Warning:  Undefined array key "special_prices" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 39
+[24-Apr-2022 01:35:51 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:6) in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 44
+[24-Apr-2022 01:36:34 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 28
+[24-Apr-2022 01:36:34 America/New_York] PHP Warning:  Undefined array key "product_name" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 33
+[24-Apr-2022 01:36:34 America/New_York] PHP Warning:  Undefined array key "product_price" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 35
+[24-Apr-2022 01:36:34 America/New_York] PHP Warning:  Undefined array key "vendor_name" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 37
+[24-Apr-2022 01:36:34 America/New_York] PHP Warning:  Undefined array key "special_prices" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 39
+[24-Apr-2022 01:36:34 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:6) in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 44
+[24-Apr-2022 01:36:34 America/New_York] PHP Warning:  Undefined variable $login_session in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 65
+[24-Apr-2022 01:37:24 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/vendor/session.php on line 4
+[24-Apr-2022 01:37:24 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/srsomgcd/krishihut.com/vendor/session.php:10
+Stack trace:
+#0 /home/srsomgcd/krishihut.com/vendor/session.php(10): mysqli_fetch_assoc()
+#1 /home/srsomgcd/krishihut.com/vendor/header.php(6): include('/home/srsomgcd/...')
+#2 /home/srsomgcd/krishihut.com/vendor/upload_products.php(2): include('/home/srsomgcd/...')
+#3 {main}
+  thrown in /home/srsomgcd/krishihut.com/vendor/session.php on line 10
+[24-Apr-2022 01:37:42 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/srsomgcd/krishihut.com/vendor/session.php:10
+Stack trace:
+#0 /home/srsomgcd/krishihut.com/vendor/session.php(10): mysqli_fetch_assoc()
+#1 /home/srsomgcd/krishihut.com/vendor/header.php(2): include('/home/srsomgcd/...')
+#2 /home/srsomgcd/krishihut.com/vendor/upload_products.php(2): include('/home/srsomgcd/...')
+#3 {main}
+  thrown in /home/srsomgcd/krishihut.com/vendor/session.php on line 10
+[24-Apr-2022 01:38:20 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/srsomgcd/krishihut.com/vendor/session.php:10
+Stack trace:
+#0 /home/srsomgcd/krishihut.com/vendor/session.php(10): mysqli_fetch_assoc()
+#1 /home/srsomgcd/krishihut.com/vendor/header.php(3): include('/home/srsomgcd/...')
+#2 /home/srsomgcd/krishihut.com/vendor/upload_products.php(2): include('/home/srsomgcd/...')
+#3 {main}
+  thrown in /home/srsomgcd/krishihut.com/vendor/session.php on line 10
+[24-Apr-2022 01:39:31 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/srsomgcd/krishihut.com/vendor/session.php:10
+Stack trace:
+#0 /home/srsomgcd/krishihut.com/vendor/session.php(10): mysqli_fetch_assoc()
+#1 /home/srsomgcd/krishihut.com/vendor/header.php(3): include('/home/srsomgcd/...')
+#2 /home/srsomgcd/krishihut.com/vendor/upload_products.php(2): include('/home/srsomgcd/...')
+#3 {main}
+  thrown in /home/srsomgcd/krishihut.com/vendor/session.php on line 10
+[24-Apr-2022 01:40:11 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 28
+[24-Apr-2022 01:40:11 America/New_York] PHP Warning:  Undefined array key "product_name" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 33
+[24-Apr-2022 01:40:11 America/New_York] PHP Warning:  Undefined array key "product_price" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 35
+[24-Apr-2022 01:40:11 America/New_York] PHP Warning:  Undefined array key "vendor_name" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 37
+[24-Apr-2022 01:40:11 America/New_York] PHP Warning:  Undefined array key "special_prices" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 39
+[24-Apr-2022 01:40:11 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:9) in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 44
+[24-Apr-2022 01:41:40 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 28
+[24-Apr-2022 01:41:40 America/New_York] PHP Warning:  Undefined array key "product_name" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 33
+[24-Apr-2022 01:41:40 America/New_York] PHP Warning:  Undefined array key "product_price" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 35
+[24-Apr-2022 01:41:40 America/New_York] PHP Warning:  Undefined array key "vendor_name" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 37
+[24-Apr-2022 01:41:40 America/New_York] PHP Warning:  Undefined array key "special_prices" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 39
+[24-Apr-2022 01:42:49 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 28
+[24-Apr-2022 01:42:49 America/New_York] PHP Warning:  Undefined array key "product_name" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 33
+[24-Apr-2022 01:42:49 America/New_York] PHP Warning:  Undefined array key "product_price" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 35
+[24-Apr-2022 01:42:49 America/New_York] PHP Warning:  Undefined array key "vendor_name" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 37
+[24-Apr-2022 01:42:49 America/New_York] PHP Warning:  Undefined array key "special_prices" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 39
+[24-Apr-2022 01:42:49 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:9) in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 44
+[24-Apr-2022 01:44:33 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[24-Apr-2022 01:44:51 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 28
+[24-Apr-2022 01:44:51 America/New_York] PHP Warning:  Undefined array key "product_name" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 33
+[24-Apr-2022 01:44:51 America/New_York] PHP Warning:  Undefined array key "product_price" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 35
+[24-Apr-2022 01:44:51 America/New_York] PHP Warning:  Undefined array key "vendor_name" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 37
+[24-Apr-2022 01:44:51 America/New_York] PHP Warning:  Undefined array key "special_prices" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 39
+[24-Apr-2022 01:55:53 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[24-Apr-2022 01:55:59 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[24-Apr-2022 02:03:17 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 28
+[24-Apr-2022 02:03:17 America/New_York] PHP Warning:  Undefined array key "product_name" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 33
+[24-Apr-2022 02:03:17 America/New_York] PHP Warning:  Undefined array key "product_price" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 35
+[24-Apr-2022 02:03:17 America/New_York] PHP Warning:  Undefined array key "vendor_name" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 37
+[24-Apr-2022 02:03:17 America/New_York] PHP Warning:  Undefined array key "special_prices" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 39
+[24-Apr-2022 02:29:53 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/vendor/session.php on line 6
+[24-Apr-2022 02:29:53 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/vendor/session.php on line 11
+[24-Apr-2022 02:29:53 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 36
+[24-Apr-2022 02:29:53 America/New_York] PHP Warning:  Undefined array key "product_name" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 41
+[24-Apr-2022 02:29:53 America/New_York] PHP Warning:  Undefined array key "product_price" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 43
+[24-Apr-2022 02:29:53 America/New_York] PHP Warning:  Undefined array key "vendor_name" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 45
+[24-Apr-2022 02:29:53 America/New_York] PHP Warning:  Undefined array key "special_prices" in /home/srsomgcd/krishihut.com/vendor/upload_products.php on line 47
+[24-Apr-2022 02:29:53 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[24-Apr-2022 02:29:58 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[24-Apr-2022 02:30:26 America/New_York] PHP Warning:  Attempt to read property "num_rows" on bool in /home/srsomgcd/krishihut.com/vendor/orders.php on line 65
+[24-Apr-2022 02:31:08 America/New_York] PHP Warning:  Attempt to read property "num_rows" on bool in /home/srsomgcd/krishihut.com/vendor/orders.php on line 65
+[24-Apr-2022 02:31:24 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 73
+[24-Apr-2022 02:31:24 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 73
+[24-Apr-2022 02:36:48 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 73
+[24-Apr-2022 02:36:48 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 73
+[24-Apr-2022 02:44:50 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 73
+[24-Apr-2022 02:44:50 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 73
+[24-Apr-2022 03:04:36 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 27
+[24-Apr-2022 03:07:14 America/New_York] PHP Warning:  Undefined array key "image" in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 11
+[24-Apr-2022 03:07:14 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 11
+[24-Apr-2022 03:07:14 America/New_York] PHP Warning:  Undefined array key "image" in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 13
+[24-Apr-2022 03:07:14 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 13
+[24-Apr-2022 03:07:47 America/New_York] PHP Warning:  Undefined array key "image" in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 11
+[24-Apr-2022 03:07:47 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 11
+[24-Apr-2022 03:07:47 America/New_York] PHP Warning:  Undefined array key "image" in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 13
+[24-Apr-2022 03:07:47 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 13
+[24-Apr-2022 03:08:14 America/New_York] PHP Warning:  Undefined array key "image" in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 20
+[24-Apr-2022 03:08:14 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 20
+[24-Apr-2022 03:08:14 America/New_York] PHP Warning:  Undefined array key "image" in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 22
+[24-Apr-2022 03:08:14 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 22
+[24-Apr-2022 03:08:14 America/New_York] PHP Warning:  Undefined array key "product_name" in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 41
+[24-Apr-2022 03:08:14 America/New_York] PHP Warning:  Undefined array key "product_price" in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 43
+[24-Apr-2022 03:08:14 America/New_York] PHP Warning:  Undefined array key "vendor_name" in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 45
+[24-Apr-2022 03:08:14 America/New_York] PHP Warning:  Undefined array key "special_prices" in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 47
+[24-Apr-2022 03:09:32 America/New_York] PHP Warning:  Undefined array key "image" in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 20
+[24-Apr-2022 03:09:32 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 20
+[24-Apr-2022 03:09:32 America/New_York] PHP Warning:  Undefined array key "image" in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 22
+[24-Apr-2022 03:09:32 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 22
+[24-Apr-2022 03:47:33 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/vendor/session.php on line 6
+[24-Apr-2022 03:47:33 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/vendor/session.php on line 11
+[24-Apr-2022 03:47:33 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:9) in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 47
+[24-Apr-2022 03:47:33 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[24-Apr-2022 03:47:38 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[25-Apr-2022 01:28:10 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[25-Apr-2022 01:28:16 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[25-Apr-2022 01:28:28 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 36
+[25-Apr-2022 01:28:28 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:9) in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 47
+[25-Apr-2022 01:34:00 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 36
+[25-Apr-2022 01:34:00 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:9) in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 47
+[25-Apr-2022 01:47:07 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[25-Apr-2022 01:47:15 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 36
+[25-Apr-2022 01:47:15 America/New_York] PHP Warning:  Undefined array key "note" in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 42
+[25-Apr-2022 01:47:15 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:9) in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 47
+[25-Apr-2022 01:50:10 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[25-Apr-2022 01:50:30 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 36
+[25-Apr-2022 01:50:30 America/New_York] PHP Warning:  Undefined array key "note" in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 42
+[25-Apr-2022 01:50:30 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:9) in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 47
+[25-Apr-2022 01:50:42 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:9) in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 47
+[25-Apr-2022 01:52:32 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[25-Apr-2022 01:52:32 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[25-Apr-2022 01:52:49 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 73
+[25-Apr-2022 01:52:49 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 73
+[25-Apr-2022 01:52:53 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[25-Apr-2022 01:52:58 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[25-Apr-2022 01:54:35 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 73
+[25-Apr-2022 01:54:35 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 73
+[25-Apr-2022 02:08:02 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 73
+[25-Apr-2022 02:08:02 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 73
+[25-Apr-2022 02:10:45 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 73
+[25-Apr-2022 02:10:45 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 73
+[25-Apr-2022 02:10:59 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 73
+[25-Apr-2022 02:10:59 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 73
+[25-Apr-2022 02:11:03 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 73
+[25-Apr-2022 02:11:03 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 73
+[25-Apr-2022 02:11:27 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 73
+[25-Apr-2022 02:11:27 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 73
+[25-Apr-2022 02:11:52 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 73
+[25-Apr-2022 02:11:52 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 73
+[25-Apr-2022 02:11:55 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 73
+[25-Apr-2022 02:11:55 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 73
+[25-Apr-2022 02:50:18 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[25-Apr-2022 02:50:20 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[25-Apr-2022 02:53:07 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 73
+[25-Apr-2022 02:53:07 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 73
+[25-Apr-2022 02:56:24 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 5
+[25-Apr-2022 02:56:24 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 82
+[25-Apr-2022 02:56:24 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 82
+[25-Apr-2022 02:56:30 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 82
+[25-Apr-2022 02:56:30 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 82
+[25-Apr-2022 03:00:09 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 82
+[25-Apr-2022 03:00:09 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 82
+[25-Apr-2022 03:00:13 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 5
+[25-Apr-2022 03:01:04 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 5
+[25-Apr-2022 03:01:04 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 82
+[25-Apr-2022 03:01:04 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 82
+[25-Apr-2022 03:04:28 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 5
+[25-Apr-2022 03:04:28 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 82
+[25-Apr-2022 03:04:28 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 82
+[25-Apr-2022 03:04:38 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 5
+[25-Apr-2022 03:04:38 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 82
+[25-Apr-2022 03:04:38 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 82
+[25-Apr-2022 03:04:49 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 5
+[25-Apr-2022 03:04:49 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 82
+[25-Apr-2022 03:04:49 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 82
+[25-Apr-2022 03:06:31 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 5
+[25-Apr-2022 03:06:31 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 84
+[25-Apr-2022 03:06:31 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 84
+[25-Apr-2022 03:07:04 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 5
+[25-Apr-2022 03:07:04 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 84
+[25-Apr-2022 03:07:04 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 84
+[25-Apr-2022 03:13:13 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 5
+[25-Apr-2022 03:13:14 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 84
+[25-Apr-2022 03:13:14 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 84
+[25-Apr-2022 03:13:16 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[25-Apr-2022 03:14:57 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[25-Apr-2022 03:33:48 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/add_halfbanner.php on line 36
+[25-Apr-2022 03:33:48 America/New_York] PHP Warning:  Undefined array key "note" in /home/srsomgcd/krishihut.com/vendor/add_halfbanner.php on line 42
+[25-Apr-2022 03:33:48 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:9) in /home/srsomgcd/krishihut.com/vendor/add_halfbanner.php on line 47
+[25-Apr-2022 03:34:31 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/add_halfbanner.php on line 36
+[25-Apr-2022 03:34:31 America/New_York] PHP Warning:  Undefined array key "note" in /home/srsomgcd/krishihut.com/vendor/add_halfbanner.php on line 42
+[25-Apr-2022 03:34:31 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:9) in /home/srsomgcd/krishihut.com/vendor/add_halfbanner.php on line 47
+[25-Apr-2022 03:39:48 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/add_halfbanner.php on line 36
+[25-Apr-2022 03:39:48 America/New_York] PHP Warning:  Undefined array key "note" in /home/srsomgcd/krishihut.com/vendor/add_halfbanner.php on line 42
+[25-Apr-2022 03:39:48 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:9) in /home/srsomgcd/krishihut.com/vendor/add_halfbanner.php on line 47
+[25-Apr-2022 03:43:43 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/vendor/session.php on line 6
+[25-Apr-2022 03:43:43 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/vendor/session.php on line 11
+[25-Apr-2022 03:43:43 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/add_halfbanner.php on line 36
+[25-Apr-2022 03:43:43 America/New_York] PHP Warning:  Undefined array key "name" in /home/srsomgcd/krishihut.com/vendor/add_halfbanner.php on line 42
+[25-Apr-2022 03:43:44 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[25-Apr-2022 03:43:48 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[25-Apr-2022 03:43:54 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/add_halfbanner.php on line 36
+[25-Apr-2022 03:43:54 America/New_York] PHP Warning:  Undefined array key "name" in /home/srsomgcd/krishihut.com/vendor/add_halfbanner.php on line 42
+[25-Apr-2022 03:45:02 America/New_York] PHP Warning:  Undefined array key "names" in /home/srsomgcd/krishihut.com/vendor/add_halfbanner.php on line 42
+[25-Apr-2022 04:17:15 America/New_York] PHP Warning:  Undefined array key "names" in /home/srsomgcd/krishihut.com/vendor/add_halfbanner.php on line 42
+[25-Apr-2022 04:17:36 America/New_York] PHP Warning:  Undefined array key "names" in /home/srsomgcd/krishihut.com/vendor/add_halfbanner.php on line 42
+[25-Apr-2022 04:17:36 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:9) in /home/srsomgcd/krishihut.com/vendor/add_halfbanner.php on line 47
+[25-Apr-2022 04:18:24 America/New_York] PHP Warning:  Undefined array key "names" in /home/srsomgcd/krishihut.com/vendor/add_halfbanner.php on line 42
+[25-Apr-2022 04:18:24 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:9) in /home/srsomgcd/krishihut.com/vendor/add_halfbanner.php on line 47
+[25-Apr-2022 04:29:39 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[25-Apr-2022 04:29:40 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[25-Apr-2022 04:43:07 America/New_York] PHP Warning:  Attempt to read property "num_rows" on bool in /home/srsomgcd/krishihut.com/vendor/small_banner.php on line 55
+[25-Apr-2022 05:09:17 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[25-Apr-2022 05:20:26 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 36
+[25-Apr-2022 05:20:26 America/New_York] PHP Warning:  Undefined array key "note" in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 42
+[25-Apr-2022 05:20:26 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:9) in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 47
+[25-Apr-2022 05:20:37 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:9) in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 47
+[25-Apr-2022 06:15:10 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/vendor/session.php on line 6
+[25-Apr-2022 06:15:10 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/vendor/session.php on line 11
+[25-Apr-2022 06:15:10 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[25-Apr-2022 06:15:15 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[25-Apr-2022 06:18:53 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 36
+[25-Apr-2022 06:18:53 America/New_York] PHP Warning:  Undefined array key "note" in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 42
+[25-Apr-2022 06:18:53 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:9) in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 47
+[25-Apr-2022 06:19:42 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 36
+[25-Apr-2022 06:19:42 America/New_York] PHP Warning:  Undefined array key "note" in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 42
+[25-Apr-2022 06:19:42 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:9) in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 47
+[25-Apr-2022 06:22:23 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/add_small_banner.php on line 36
+[25-Apr-2022 06:22:23 America/New_York] PHP Warning:  Undefined array key "names" in /home/srsomgcd/krishihut.com/vendor/add_small_banner.php on line 42
+[25-Apr-2022 06:22:23 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:9) in /home/srsomgcd/krishihut.com/vendor/add_small_banner.php on line 47
+[25-Apr-2022 06:22:35 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:9) in /home/srsomgcd/krishihut.com/vendor/add_small_banner.php on line 47
+[25-Apr-2022 06:22:44 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/add_small_banner.php on line 36
+[25-Apr-2022 06:22:44 America/New_York] PHP Warning:  Undefined array key "names" in /home/srsomgcd/krishihut.com/vendor/add_small_banner.php on line 42
+[25-Apr-2022 06:22:44 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:9) in /home/srsomgcd/krishihut.com/vendor/add_small_banner.php on line 47
+[25-Apr-2022 06:25:20 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/add_halfbanner.php on line 36
+[25-Apr-2022 06:25:20 America/New_York] PHP Warning:  Undefined array key "names" in /home/srsomgcd/krishihut.com/vendor/add_halfbanner.php on line 42
+[25-Apr-2022 06:25:20 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:9) in /home/srsomgcd/krishihut.com/vendor/add_halfbanner.php on line 47
+[25-Apr-2022 06:25:37 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:9) in /home/srsomgcd/krishihut.com/vendor/add_halfbanner.php on line 47
+[25-Apr-2022 06:58:47 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/vendor/session.php on line 6
+[25-Apr-2022 06:58:47 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/vendor/session.php on line 11
+[25-Apr-2022 06:58:47 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 5
+[25-Apr-2022 06:58:47 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[27-Apr-2022 00:50:43 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[27-Apr-2022 00:50:44 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[27-Apr-2022 00:50:49 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[27-Apr-2022 00:51:01 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 36
+[27-Apr-2022 00:51:01 America/New_York] PHP Warning:  Undefined array key "note" in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 42
+[27-Apr-2022 00:51:01 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:7) in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 47
+[27-Apr-2022 00:51:17 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:7) in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 47
+[27-Apr-2022 00:51:24 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 36
+[27-Apr-2022 00:51:24 America/New_York] PHP Warning:  Undefined array key "note" in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 42
+[27-Apr-2022 00:51:24 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:7) in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 47
+[27-Apr-2022 00:51:28 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[27-Apr-2022 00:52:27 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 36
+[27-Apr-2022 00:52:27 America/New_York] PHP Warning:  Undefined array key "note" in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 42
+[27-Apr-2022 00:52:35 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:7) in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 47
+[27-Apr-2022 00:52:40 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 36
+[27-Apr-2022 00:52:40 America/New_York] PHP Warning:  Undefined array key "note" in /home/srsomgcd/krishihut.com/vendor/add_slider.php on line 42
+[27-Apr-2022 00:57:56 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_slider.php on line 36
+[27-Apr-2022 00:57:56 America/New_York] PHP Warning:  Undefined array key "note" in /home/srsomgcd/krishihut.com/vendor/edit_slider.php on line 42
+[27-Apr-2022 01:00:34 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_slider.php on line 36
+[27-Apr-2022 01:00:34 America/New_York] PHP Warning:  Undefined array key "note" in /home/srsomgcd/krishihut.com/vendor/edit_slider.php on line 42
+[27-Apr-2022 01:00:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/vendor/edit_slider.php on line 79
+[27-Apr-2022 01:00:50 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_slider.php on line 36
+[27-Apr-2022 01:00:50 America/New_York] PHP Warning:  Undefined array key "note" in /home/srsomgcd/krishihut.com/vendor/edit_slider.php on line 42
+[27-Apr-2022 01:00:58 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_slider.php on line 36
+[27-Apr-2022 01:00:58 America/New_York] PHP Warning:  Undefined array key "note" in /home/srsomgcd/krishihut.com/vendor/edit_slider.php on line 42
+[27-Apr-2022 01:01:13 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_slider.php on line 36
+[27-Apr-2022 01:01:13 America/New_York] PHP Warning:  Undefined array key "note" in /home/srsomgcd/krishihut.com/vendor/edit_slider.php on line 42
+[27-Apr-2022 01:01:58 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_slider.php on line 36
+[27-Apr-2022 01:01:58 America/New_York] PHP Warning:  Undefined array key "note" in /home/srsomgcd/krishihut.com/vendor/edit_slider.php on line 42
+[27-Apr-2022 01:02:17 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_slider.php on line 36
+[27-Apr-2022 01:02:17 America/New_York] PHP Warning:  Undefined array key "note" in /home/srsomgcd/krishihut.com/vendor/edit_slider.php on line 42
+[27-Apr-2022 01:04:14 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_slider.php on line 36
+[27-Apr-2022 01:04:42 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_slider.php on line 36
+[27-Apr-2022 01:11:46 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_halfbanner.php on line 37
+[27-Apr-2022 01:11:46 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:7) in /home/srsomgcd/krishihut.com/vendor/edit_halfbanner.php on line 45
+[27-Apr-2022 01:11:59 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:7) in /home/srsomgcd/krishihut.com/vendor/edit_halfbanner.php on line 45
+[27-Apr-2022 01:12:11 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_halfbanner.php on line 37
+[27-Apr-2022 01:12:11 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:7) in /home/srsomgcd/krishihut.com/vendor/edit_halfbanner.php on line 45
+[27-Apr-2022 01:12:40 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_halfbanner.php on line 37
+[27-Apr-2022 01:12:40 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:7) in /home/srsomgcd/krishihut.com/vendor/edit_halfbanner.php on line 45
+[27-Apr-2022 01:12:53 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:7) in /home/srsomgcd/krishihut.com/vendor/edit_halfbanner.php on line 45
+[27-Apr-2022 01:12:59 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_halfbanner.php on line 37
+[27-Apr-2022 01:12:59 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:7) in /home/srsomgcd/krishihut.com/vendor/edit_halfbanner.php on line 45
+[27-Apr-2022 01:14:15 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_halfbanner.php on line 37
+[27-Apr-2022 01:14:25 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:7) in /home/srsomgcd/krishihut.com/vendor/edit_halfbanner.php on line 45
+[27-Apr-2022 01:14:33 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_halfbanner.php on line 37
+[27-Apr-2022 01:14:44 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:7) in /home/srsomgcd/krishihut.com/vendor/edit_halfbanner.php on line 45
+[27-Apr-2022 01:14:52 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_halfbanner.php on line 37
+[27-Apr-2022 01:15:01 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:7) in /home/srsomgcd/krishihut.com/vendor/edit_halfbanner.php on line 45
+[27-Apr-2022 01:15:24 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_halfbanner.php on line 37
+[27-Apr-2022 01:22:29 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/add_small_banner.php on line 36
+[27-Apr-2022 01:22:29 America/New_York] PHP Warning:  Undefined array key "names" in /home/srsomgcd/krishihut.com/vendor/add_small_banner.php on line 42
+[27-Apr-2022 01:22:29 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:7) in /home/srsomgcd/krishihut.com/vendor/add_small_banner.php on line 47
+[27-Apr-2022 01:25:54 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_small_banner.php on line 37
+[27-Apr-2022 01:26:05 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:7) in /home/srsomgcd/krishihut.com/vendor/edit_small_banner.php on line 45
+[27-Apr-2022 01:37:13 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_small_banner.php on line 37
+[27-Apr-2022 01:37:25 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:7) in /home/srsomgcd/krishihut.com/vendor/edit_small_banner.php on line 46
+[27-Apr-2022 01:37:32 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_small_banner.php on line 37
+[27-Apr-2022 01:37:42 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/srsomgcd/krishihut.com/vendor/header.php:7) in /home/srsomgcd/krishihut.com/vendor/edit_small_banner.php on line 46
+[27-Apr-2022 02:56:32 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/vendor/session.php on line 6
+[27-Apr-2022 02:56:32 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/vendor/session.php on line 11
+[27-Apr-2022 02:56:32 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[27-Apr-2022 02:56:38 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[27-Apr-2022 05:27:01 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/vendor/session.php on line 6
+[27-Apr-2022 05:27:01 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/vendor/session.php on line 11
+[27-Apr-2022 05:27:02 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[27-Apr-2022 05:27:11 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[27-Apr-2022 05:28:20 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 49
+[27-Apr-2022 05:28:20 America/New_York] PHP Warning:  Undefined array key "product_name" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 54
+[27-Apr-2022 05:28:20 America/New_York] PHP Warning:  Undefined array key "product_price" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 56
+[27-Apr-2022 05:28:20 America/New_York] PHP Warning:  Undefined array key "vendor_name" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 58
+[27-Apr-2022 05:28:20 America/New_York] PHP Warning:  Undefined array key "special_prices" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 60
+[27-Apr-2022 05:29:59 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_slider.php on line 36
+[27-Apr-2022 05:35:17 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 49
+[27-Apr-2022 05:35:17 America/New_York] PHP Warning:  Undefined array key "product_name" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 54
+[27-Apr-2022 05:35:17 America/New_York] PHP Warning:  Undefined array key "product_price" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 56
+[27-Apr-2022 05:35:17 America/New_York] PHP Warning:  Undefined array key "vendor_name" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 58
+[27-Apr-2022 05:35:17 America/New_York] PHP Warning:  Undefined array key "special_prices" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 60
+[27-Apr-2022 05:35:17 America/New_York] PHP Warning:  Undefined variable $images in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 97
+[27-Apr-2022 05:40:00 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 49
+[27-Apr-2022 05:40:00 America/New_York] PHP Warning:  Undefined array key "product_name" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 54
+[27-Apr-2022 05:40:00 America/New_York] PHP Warning:  Undefined array key "product_price" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 56
+[27-Apr-2022 05:40:00 America/New_York] PHP Warning:  Undefined array key "vendor_name" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 58
+[27-Apr-2022 05:40:00 America/New_York] PHP Warning:  Undefined array key "special_prices" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 60
+[27-Apr-2022 05:47:26 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 49
+[27-Apr-2022 05:47:26 America/New_York] PHP Warning:  Undefined array key "product_name" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 54
+[27-Apr-2022 05:47:26 America/New_York] PHP Warning:  Undefined array key "product_price" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 56
+[27-Apr-2022 05:47:26 America/New_York] PHP Warning:  Undefined array key "vendor_name" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 58
+[27-Apr-2022 05:47:26 America/New_York] PHP Warning:  Undefined array key "special_prices" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 60
+[27-Apr-2022 05:47:46 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 49
+[27-Apr-2022 05:47:46 America/New_York] PHP Warning:  Undefined array key "product_name" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 54
+[27-Apr-2022 05:47:46 America/New_York] PHP Warning:  Undefined array key "product_price" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 56
+[27-Apr-2022 05:47:46 America/New_York] PHP Warning:  Undefined array key "vendor_name" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 58
+[27-Apr-2022 05:47:46 America/New_York] PHP Warning:  Undefined array key "special_prices" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 60
+[27-Apr-2022 05:48:29 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 49
+[27-Apr-2022 05:48:29 America/New_York] PHP Warning:  Undefined array key "product_name" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 54
+[27-Apr-2022 05:48:29 America/New_York] PHP Warning:  Undefined array key "product_price" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 56
+[27-Apr-2022 05:48:29 America/New_York] PHP Warning:  Undefined array key "vendor_name" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 58
+[27-Apr-2022 05:48:29 America/New_York] PHP Warning:  Undefined array key "special_prices" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 60
+[27-Apr-2022 05:49:02 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 49
+[27-Apr-2022 05:49:02 America/New_York] PHP Warning:  Undefined array key "product_name" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 54
+[27-Apr-2022 05:49:02 America/New_York] PHP Warning:  Undefined array key "product_price" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 56
+[27-Apr-2022 05:49:02 America/New_York] PHP Warning:  Undefined array key "vendor_name" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 58
+[27-Apr-2022 05:49:02 America/New_York] PHP Warning:  Undefined array key "special_prices" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 60
+[27-Apr-2022 05:50:48 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 49
+[27-Apr-2022 05:50:48 America/New_York] PHP Warning:  Undefined array key "product_name" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 54
+[27-Apr-2022 05:50:48 America/New_York] PHP Warning:  Undefined array key "product_price" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 56
+[27-Apr-2022 05:50:48 America/New_York] PHP Warning:  Undefined array key "vendor_name" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 58
+[27-Apr-2022 05:50:48 America/New_York] PHP Warning:  Undefined array key "special_prices" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 60
+[27-Apr-2022 05:50:51 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 49
+[27-Apr-2022 05:50:51 America/New_York] PHP Warning:  Undefined array key "product_name" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 54
+[27-Apr-2022 05:50:51 America/New_York] PHP Warning:  Undefined array key "product_price" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 56
+[27-Apr-2022 05:50:51 America/New_York] PHP Warning:  Undefined array key "vendor_name" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 58
+[27-Apr-2022 05:50:51 America/New_York] PHP Warning:  Undefined array key "special_prices" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 60
+[27-Apr-2022 05:51:24 America/New_York] PHP Warning:  Undefined variable $filename in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 49
+[27-Apr-2022 05:51:24 America/New_York] PHP Warning:  Undefined array key "product_name" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 54
+[27-Apr-2022 05:51:24 America/New_York] PHP Warning:  Undefined array key "product_price" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 56
+[27-Apr-2022 05:51:24 America/New_York] PHP Warning:  Undefined array key "vendor_name" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 58
+[27-Apr-2022 05:51:24 America/New_York] PHP Warning:  Undefined array key "special_prices" in /home/srsomgcd/krishihut.com/vendor/edit_product.php on line 60
+[27-Apr-2022 05:55:38 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 5
+[27-Apr-2022 05:55:38 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 82
+[27-Apr-2022 05:55:38 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 82
+[27-Apr-2022 05:55:45 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 5
+[27-Apr-2022 05:55:45 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 84
+[27-Apr-2022 05:55:45 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 84
+[27-Apr-2022 05:55:49 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 5
+[27-Apr-2022 05:55:49 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 82
+[27-Apr-2022 05:55:49 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 82
+[27-Apr-2022 05:55:52 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 5
+[27-Apr-2022 05:55:52 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 84
+[27-Apr-2022 05:55:52 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 84
+[27-Apr-2022 05:55:55 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 82
+[27-Apr-2022 05:55:55 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 82
+[27-Apr-2022 05:56:02 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 82
+[27-Apr-2022 05:56:02 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 82
+[27-Apr-2022 05:58:37 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 5
+[27-Apr-2022 05:58:37 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 82
+[27-Apr-2022 05:58:37 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 82
+[27-Apr-2022 05:58:42 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 82
+[27-Apr-2022 05:58:42 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 82
+[27-Apr-2022 05:58:44 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 5
+[27-Apr-2022 05:58:44 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 84
+[27-Apr-2022 05:58:44 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/delivered_orders.php on line 84
+[27-Apr-2022 05:58:46 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 82
+[27-Apr-2022 05:58:46 America/New_York] PHP Warning:  Undefined array key "product_image" in /home/srsomgcd/krishihut.com/vendor/orders.php on line 82
+[27-Apr-2022 06:03:52 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/vendor/index.php on line 6
+[27-Apr-2022 06:27:16 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/admin/index.php on line 6
+[27-Apr-2022 06:27:17 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/admin/index.php on line 6
+[27-Apr-2022 06:27:22 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/admin/index.php on line 6
+[27-Apr-2022 06:27:28 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/admin/index.php on line 6
+[27-Apr-2022 06:28:15 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/admin/index.php on line 6
+[27-Apr-2022 06:28:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/srsomgcd/krishihut.com/admin/login.php:17
+Stack trace:
+#0 /home/srsomgcd/krishihut.com/admin/index.php(2): include()
+#1 {main}
+  thrown in /home/srsomgcd/krishihut.com/admin/login.php on line 17
+[27-Apr-2022 06:29:32 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/admin/index.php on line 6
+[27-Apr-2022 06:29:39 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/admin/index.php on line 6
+[27-Apr-2022 06:29:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/srsomgcd/krishihut.com/admin/login.php:17
+Stack trace:
+#0 /home/srsomgcd/krishihut.com/admin/index.php(2): include()
+#1 {main}
+  thrown in /home/srsomgcd/krishihut.com/admin/login.php on line 17
+[27-Apr-2022 06:29:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/srsomgcd/krishihut.com/admin/login.php:17
+Stack trace:
+#0 /home/srsomgcd/krishihut.com/admin/index.php(2): include()
+#1 {main}
+  thrown in /home/srsomgcd/krishihut.com/admin/login.php on line 17
+[27-Apr-2022 06:29:53 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/admin/index.php on line 6
+[27-Apr-2022 06:29:57 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/admin/index.php on line 6
+[27-Apr-2022 06:30:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/srsomgcd/krishihut.com/admin/login.php:17
+Stack trace:
+#0 /home/srsomgcd/krishihut.com/admin/index.php(2): include()
+#1 {main}
+  thrown in /home/srsomgcd/krishihut.com/admin/login.php on line 17
+[27-Apr-2022 06:30:15 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/admin/index.php on line 6
+[27-Apr-2022 06:30:18 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/admin/index.php on line 6
+[27-Apr-2022 06:30:21 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/admin/index.php on line 6
+[27-Apr-2022 06:36:11 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/admin/index.php on line 6
+[27-Apr-2022 06:36:14 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/admin/index.php on line 6
+[27-Apr-2022 06:36:22 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/admin/index.php on line 6
+[27-Apr-2022 06:36:31 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/admin/index.php on line 6
+[27-Apr-2022 06:36:37 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/admin/index.php on line 6
+[27-Apr-2022 06:37:21 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/admin/index.php on line 6
+[27-Apr-2022 06:37:27 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/admin/index.php on line 6
+[27-Apr-2022 06:38:27 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/admin/index.php on line 6
+[28-Apr-2022 00:21:02 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/admin/index.php on line 6
+[28-Apr-2022 00:21:03 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/admin/index.php on line 6
+[28-Apr-2022 00:21:10 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/admin/index.php on line 6
+[28-Apr-2022 00:47:24 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 00:47:24 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 00:47:49 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 00:47:49 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 00:48:03 America/New_York] PHP Warning:  Undefined array key "key" in /home/srsomgcd/krishihut.com/admin/slider.php on line 3
+[28-Apr-2022 00:48:03 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 00:48:03 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 00:48:06 America/New_York] PHP Warning:  Undefined array key "key" in /home/srsomgcd/krishihut.com/admin/slider.php on line 3
+[28-Apr-2022 00:48:06 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 00:48:06 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 01:19:10 America/New_York] PHP Warning:  Undefined array key "key" in /home/srsomgcd/krishihut.com/admin/slider.php on line 3
+[28-Apr-2022 01:19:10 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 01:19:10 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 01:36:09 America/New_York] PHP Warning:  Undefined array key "key" in /home/srsomgcd/krishihut.com/admin/slider.php on line 3
+[28-Apr-2022 01:36:09 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 01:36:09 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 01:36:14 America/New_York] PHP Warning:  Undefined variable $dbname in /home/srsomgcd/krishihut.com/admin/complete_slider.php on line 5
+[28-Apr-2022 01:36:36 America/New_York] PHP Warning:  Undefined array key "key" in /home/srsomgcd/krishihut.com/admin/slider.php on line 3
+[28-Apr-2022 01:36:36 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 01:36:36 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 01:36:40 America/New_York] PHP Warning:  Undefined array key "key" in /home/srsomgcd/krishihut.com/admin/slider.php on line 3
+[28-Apr-2022 01:36:40 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 01:36:40 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 01:37:10 America/New_York] PHP Warning:  Undefined array key "key" in /home/srsomgcd/krishihut.com/admin/slider.php on line 3
+[28-Apr-2022 01:37:10 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 01:37:10 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 01:37:17 America/New_York] PHP Warning:  Undefined array key "key" in /home/srsomgcd/krishihut.com/admin/slider.php on line 3
+[28-Apr-2022 01:37:17 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 01:37:17 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 01:37:55 America/New_York] PHP Warning:  Undefined array key "key" in /home/srsomgcd/krishihut.com/admin/slider.php on line 3
+[28-Apr-2022 01:37:55 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 01:37:55 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 01:37:57 America/New_York] PHP Warning:  Undefined array key "key" in /home/srsomgcd/krishihut.com/admin/slider.php on line 3
+[28-Apr-2022 01:37:57 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 01:37:57 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 01:39:58 America/New_York] PHP Warning:  Undefined array key "key" in /home/srsomgcd/krishihut.com/admin/slider.php on line 3
+[28-Apr-2022 01:39:58 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 01:39:58 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 01:40:02 America/New_York] PHP Warning:  Undefined array key "key" in /home/srsomgcd/krishihut.com/admin/slider.php on line 3
+[28-Apr-2022 01:40:02 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 01:40:02 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 01:41:04 America/New_York] PHP Warning:  Undefined array key "key" in /home/srsomgcd/krishihut.com/admin/slider.php on line 3
+[28-Apr-2022 01:41:04 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 01:41:04 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 01:41:08 America/New_York] PHP Warning:  Undefined array key "key" in /home/srsomgcd/krishihut.com/admin/slider.php on line 3
+[28-Apr-2022 01:41:08 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 01:41:08 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 01:46:27 America/New_York] PHP Warning:  Undefined array key "key" in /home/srsomgcd/krishihut.com/admin/slider.php on line 3
+[28-Apr-2022 01:46:27 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 01:46:27 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 01:52:29 America/New_York] PHP Parse error:  Unclosed '{' on line 51 in /home/srsomgcd/krishihut.com/admin/slider.php on line 135
+[28-Apr-2022 01:52:49 America/New_York] PHP Parse error:  Unclosed '{' on line 51 in /home/srsomgcd/krishihut.com/admin/slider.php on line 135
+[28-Apr-2022 01:52:52 America/New_York] PHP Parse error:  Unclosed '{' on line 51 in /home/srsomgcd/krishihut.com/admin/slider.php on line 135
+[28-Apr-2022 01:53:00 America/New_York] PHP Parse error:  Unclosed '{' on line 51 in /home/srsomgcd/krishihut.com/admin/slider.php on line 135
+[28-Apr-2022 01:54:36 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 01:54:36 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 01:55:02 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 01:55:02 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 01:55:05 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 01:55:05 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 01:55:38 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 01:55:38 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 01:57:19 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 01:57:19 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 01:57:22 America/New_York] PHP Warning:  Undefined array key "key" in /home/srsomgcd/krishihut.com/admin/slider.php on line 3
+[28-Apr-2022 01:57:22 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 01:57:22 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 01:57:29 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 01:57:29 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 02:01:58 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/admin/index.php on line 6
+[28-Apr-2022 02:01:58 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/admin/index.php on line 6
+[28-Apr-2022 02:02:10 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 02:02:10 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 02:09:51 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 02:09:51 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 02:09:54 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 02:09:54 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 02:09:58 America/New_York] PHP Warning:  Undefined array key "key" in /home/srsomgcd/krishihut.com/admin/slider.php on line 3
+[28-Apr-2022 02:09:58 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 02:09:58 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 02:12:12 America/New_York] PHP Warning:  Undefined array key "key" in /home/srsomgcd/krishihut.com/admin/slider.php on line 3
+[28-Apr-2022 02:12:12 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 02:12:12 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 02:12:16 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 02:12:16 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 02:13:16 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 02:13:16 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 02:36:55 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/admin/slider.php on line 4
+[28-Apr-2022 02:36:55 America/New_York] PHP Warning:  Undefined variable $stauss in /home/srsomgcd/krishihut.com/admin/slider.php on line 43
+[28-Apr-2022 02:37:19 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/admin/index.php on line 6
+[28-Apr-2022 02:52:35 America/New_York] PHP Warning:  Undefined array key "key" in /home/srsomgcd/krishihut.com/admin/half_banner.php on line 3
+[28-Apr-2022 03:03:21 America/New_York] PHP Warning:  Undefined array key "key" in /home/srsomgcd/krishihut.com/admin/half_banner.php on line 3
+[28-Apr-2022 04:22:59 America/New_York] PHP Warning:  Undefined array key "text" in /home/srsomgcd/krishihut.com/admin/index.php on line 6

@@ -1,0 +1,447 @@
+[21-Apr-2022 02:30:43 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/checkout.php on line 5
+[21-Apr-2022 02:31:14 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/checkout.php on line 5
+[21-Apr-2022 02:34:02 America/New_York] PHP Warning:  Undefined variable $quantity in /home/srsomgcd/krishihut.com/product_details.php on line 138
+[21-Apr-2022 02:35:08 America/New_York] PHP Warning:  Undefined variable $quantity in /home/srsomgcd/krishihut.com/product_details.php on line 138
+[21-Apr-2022 02:54:02 America/New_York] PHP Warning:  Undefined array key "quantity" in /home/srsomgcd/krishihut.com/checkout.php on line 4
+[21-Apr-2022 02:54:02 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/checkout.php on line 5
+[21-Apr-2022 02:54:02 America/New_York] PHP Warning:  Attempt to read property "num_rows" on bool in /home/srsomgcd/krishihut.com/checkout.php on line 203
+[21-Apr-2022 02:54:02 America/New_York] PHP Warning:  Undefined variable $subtotal in /home/srsomgcd/krishihut.com/checkout.php on line 225
+[21-Apr-2022 03:00:19 America/New_York] PHP Warning:  Undefined array key "quantity" in /home/srsomgcd/krishihut.com/checkout.php on line 4
+[21-Apr-2022 03:00:19 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/checkout.php on line 5
+[21-Apr-2022 03:00:19 America/New_York] PHP Warning:  Attempt to read property "num_rows" on bool in /home/srsomgcd/krishihut.com/checkout.php on line 203
+[21-Apr-2022 03:00:19 America/New_York] PHP Warning:  Undefined variable $subtotal in /home/srsomgcd/krishihut.com/checkout.php on line 225
+[21-Apr-2022 03:06:58 America/New_York] PHP Warning:  Undefined variable $quantity in /home/srsomgcd/krishihut.com/product_details.php on line 138
+[21-Apr-2022 03:16:47 America/New_York] PHP Warning:  Undefined array key "name" in /home/srsomgcd/krishihut.com/order.php on line 3
+[21-Apr-2022 03:16:47 America/New_York] PHP Warning:  Undefined array key "phone" in /home/srsomgcd/krishihut.com/order.php on line 5
+[21-Apr-2022 03:16:47 America/New_York] PHP Warning:  Undefined variable $user_name in /home/srsomgcd/krishihut.com/order.php on line 10
+[21-Apr-2022 03:16:47 America/New_York] PHP Warning:  Undefined variable $username in /home/srsomgcd/krishihut.com/order.php on line 10
+[21-Apr-2022 03:16:47 America/New_York] PHP Warning:  Undefined variable $password in /home/srsomgcd/krishihut.com/order.php on line 10
+[21-Apr-2022 03:16:47 America/New_York] PHP Warning:  Undefined variable $country in /home/srsomgcd/krishihut.com/order.php on line 10
+[21-Apr-2022 03:16:47 America/New_York] PHP Warning:  Undefined variable $conn in /home/srsomgcd/krishihut.com/order.php on line 11
+[21-Apr-2022 03:16:47 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/srsomgcd/krishihut.com/order.php:11
+Stack trace:
+#0 /home/srsomgcd/krishihut.com/order.php(11): mysqli_query()
+#1 {main}
+  thrown in /home/srsomgcd/krishihut.com/order.php on line 11
+[21-Apr-2022 03:18:32 America/New_York] PHP Warning:  Undefined variable $quantity in /home/srsomgcd/krishihut.com/product_details.php on line 138
+[21-Apr-2022 03:18:36 America/New_York] PHP Warning:  Undefined array key "full_name" in /home/srsomgcd/krishihut.com/order.php on line 3
+[21-Apr-2022 03:18:36 America/New_York] PHP Warning:  Undefined array key "phone" in /home/srsomgcd/krishihut.com/order.php on line 5
+[21-Apr-2022 03:19:04 America/New_York] PHP Warning:  Undefined variable $quantity in /home/srsomgcd/krishihut.com/product_details.php on line 138
+[21-Apr-2022 03:19:10 America/New_York] PHP Warning:  Undefined array key "full_name" in /home/srsomgcd/krishihut.com/order.php on line 3
+[21-Apr-2022 03:20:12 America/New_York] PHP Warning:  Undefined variable $quantity in /home/srsomgcd/krishihut.com/product_details.php on line 138
+[21-Apr-2022 03:20:17 America/New_York] PHP Warning:  Undefined variable $name in /home/srsomgcd/krishihut.com/checkout.php on line 32
+[21-Apr-2022 03:20:19 America/New_York] PHP Warning:  Undefined array key "full_name" in /home/srsomgcd/krishihut.com/order.php on line 3
+[21-Apr-2022 03:20:30 America/New_York] PHP Warning:  Undefined variable $quantity in /home/srsomgcd/krishihut.com/product_details.php on line 138
+[21-Apr-2022 03:33:38 America/New_York] PHP Fatal error:  Cannot use [] for reading in /home/srsomgcd/krishihut.com/order.php on line 17
+[21-Apr-2022 03:34:00 America/New_York] PHP Warning:  Undefined variable $quantity in /home/srsomgcd/krishihut.com/product_details.php on line 138
+[21-Apr-2022 03:39:14 America/New_York] PHP Fatal error:  Cannot use [] for reading in /home/srsomgcd/krishihut.com/order.php on line 17
+[21-Apr-2022 04:40:19 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 04:40:19 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 04:52:16 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/order.php on line 22
+[21-Apr-2022 04:53:35 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 04:53:35 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 04:54:04 America/New_York] PHP Warning:  Undefined variable $quantity in /home/srsomgcd/krishihut.com/product_details.php on line 138
+[21-Apr-2022 04:56:44 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 04:56:58 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 04:56:58 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 04:57:02 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 04:57:02 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 04:57:02 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 04:57:21 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 04:57:21 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 04:57:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 04:57:28 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 04:57:28 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 04:57:28 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 04:58:05 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 04:58:05 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 04:58:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 04:58:18 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 04:58:18 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 04:58:18 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 04:58:26 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 04:58:26 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 04:58:26 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:06:16 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:06:16 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:06:20 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:06:20 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:06:20 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:06:21 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:06:21 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:06:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:07:42 America/New_York] PHP Warning:  Undefined variable $conn in /home/srsomgcd/krishihut.com/login.php on line 26
+[21-Apr-2022 05:07:42 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home/srsomgcd/krishihut.com/login.php:26
+Stack trace:
+#0 /home/srsomgcd/krishihut.com/login.php(26): mysqli_close()
+#1 /home/srsomgcd/krishihut.com/signin.php(2): include('/home/srsomgcd/...')
+#2 {main}
+  thrown in /home/srsomgcd/krishihut.com/login.php on line 26
+[21-Apr-2022 05:07:46 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:07:46 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:07:57 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:07:57 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:07:57 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:08:03 America/New_York] PHP Warning:  Undefined variable $conn in /home/srsomgcd/krishihut.com/login.php on line 26
+[21-Apr-2022 05:08:03 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home/srsomgcd/krishihut.com/login.php:26
+Stack trace:
+#0 /home/srsomgcd/krishihut.com/login.php(26): mysqli_close()
+#1 /home/srsomgcd/krishihut.com/signin.php(2): include('/home/srsomgcd/...')
+#2 {main}
+  thrown in /home/srsomgcd/krishihut.com/login.php on line 26
+[21-Apr-2022 05:08:05 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:08:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:11:26 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:11:26 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:11:34 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:11:34 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:11:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:11:34 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:11:34 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:11:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:12:51 America/New_York] PHP Warning:  Undefined variable $conn in /home/srsomgcd/krishihut.com/login.php on line 26
+[21-Apr-2022 05:12:51 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home/srsomgcd/krishihut.com/login.php:26
+Stack trace:
+#0 /home/srsomgcd/krishihut.com/login.php(26): mysqli_close()
+#1 /home/srsomgcd/krishihut.com/signin.php(2): include('/home/srsomgcd/...')
+#2 {main}
+  thrown in /home/srsomgcd/krishihut.com/login.php on line 26
+[21-Apr-2022 05:12:53 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:12:53 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:12:53 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:13:48 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:13:48 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:13:48 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:13:53 America/New_York] PHP Warning:  Undefined variable $conn in /home/srsomgcd/krishihut.com/login.php on line 26
+[21-Apr-2022 05:13:53 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home/srsomgcd/krishihut.com/login.php:26
+Stack trace:
+#0 /home/srsomgcd/krishihut.com/login.php(26): mysqli_close()
+#1 /home/srsomgcd/krishihut.com/signin.php(2): include('/home/srsomgcd/...')
+#2 {main}
+  thrown in /home/srsomgcd/krishihut.com/login.php on line 26
+[21-Apr-2022 05:14:00 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:14:00 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:14:00 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:14:50 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:14:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:15:09 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:15:09 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:15:22 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:15:22 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:15:22 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:15:26 America/New_York] PHP Warning:  Undefined variable $conn in /home/srsomgcd/krishihut.com/login.php on line 26
+[21-Apr-2022 05:15:26 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home/srsomgcd/krishihut.com/login.php:26
+Stack trace:
+#0 /home/srsomgcd/krishihut.com/login.php(26): mysqli_close()
+#1 /home/srsomgcd/krishihut.com/signin.php(2): include('/home/srsomgcd/...')
+#2 {main}
+  thrown in /home/srsomgcd/krishihut.com/login.php on line 26
+[21-Apr-2022 05:15:29 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:15:29 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:15:29 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:16:45 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:16:45 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:16:45 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:16:56 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:17:02 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:17:02 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:17:59 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:17:59 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:18:03 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:18:03 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:18:03 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:18:04 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:18:04 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:18:04 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:23:02 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:23:02 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:23:08 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:23:08 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:23:09 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:23:09 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:23:16 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:23:16 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:23:18 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:23:18 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:27:32 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:27:32 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:27:32 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:29:10 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:29:10 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:29:10 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:29:15 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:29:19 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:29:19 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:29:23 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:29:23 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:29:23 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:29:24 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:29:24 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:29:24 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:29:49 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:29:49 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:29:49 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:29:59 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:30:03 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:30:03 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:30:08 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:30:08 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:30:08 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:30:48 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:30:51 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:30:51 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:30:56 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:30:56 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:30:56 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:31:54 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:31:54 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:31:54 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:32:14 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:32:14 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:32:14 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:32:22 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:32:25 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:32:25 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:32:45 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:32:45 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:32:51 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:32:51 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:32:51 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:33:00 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:33:04 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:33:04 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:33:10 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:33:10 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:33:10 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:33:50 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:33:50 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:33:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:33:59 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:34:03 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:34:03 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:34:03 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:34:03 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:34:11 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:34:11 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:34:11 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:34:47 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:34:47 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:34:47 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:34:54 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:34:57 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:34:57 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:35:04 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:35:04 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:35:04 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:35:05 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:35:05 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:35:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:35:28 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:35:28 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:35:28 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:35:39 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:35:39 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:35:39 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:35:52 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:35:52 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:35:52 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:36:27 America/New_York] PHP Warning:  Undefined variable $conn in /home/srsomgcd/krishihut.com/login.php on line 26
+[21-Apr-2022 05:36:27 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home/srsomgcd/krishihut.com/login.php:26
+Stack trace:
+#0 /home/srsomgcd/krishihut.com/login.php(26): mysqli_close()
+#1 /home/srsomgcd/krishihut.com/signin.php(2): include('/home/srsomgcd/...')
+#2 {main}
+  thrown in /home/srsomgcd/krishihut.com/login.php on line 26
+[21-Apr-2022 05:36:29 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:36:29 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:36:29 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:36:35 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:36:38 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:36:38 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:37:51 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:37:51 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:37:51 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:38:04 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:38:08 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:38:08 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:38:13 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:38:13 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:38:13 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:39:17 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:39:17 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:39:17 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:39:29 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:39:29 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:39:29 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:39:38 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:39:42 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:39:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:39:54 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:39:54 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:39:54 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:40:08 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:40:08 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:40:08 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 05:48:14 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 05:48:14 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 05:48:14 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 06:13:48 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 06:13:48 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 06:16:36 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 06:16:36 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 06:43:04 America/New_York] PHP Warning:  Undefined variable $quantity in /home/srsomgcd/krishihut.com/product_details.php on line 138
+[21-Apr-2022 06:43:30 America/New_York] PHP Warning:  Undefined variable $quantity in /home/srsomgcd/krishihut.com/product_details.php on line 138
+[21-Apr-2022 06:43:55 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 06:43:55 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 06:44:21 America/New_York] PHP Warning:  Undefined variable $quantity in /home/srsomgcd/krishihut.com/product_details.php on line 138
+[21-Apr-2022 06:44:24 America/New_York] PHP Warning:  Undefined variable $quantity in /home/srsomgcd/krishihut.com/product_details.php on line 138
+[21-Apr-2022 06:44:26 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 06:44:26 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 06:44:43 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 06:44:43 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 06:44:43 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 06:44:50 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 06:44:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 06:44:58 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 06:44:58 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 06:45:51 America/New_York] PHP Warning:  include(../config.php): Failed to open stream: No such file or directory in /home/srsomgcd/krishihut.com/confirm_registration.php on line 2
+[21-Apr-2022 06:45:51 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/srsomgcd/krishihut.com/confirm_registration.php on line 2
+[21-Apr-2022 06:45:51 America/New_York] PHP Warning:  Undefined variable $conn in /home/srsomgcd/krishihut.com/confirm_registration.php on line 13
+[21-Apr-2022 06:45:51 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/srsomgcd/krishihut.com/confirm_registration.php:13
+Stack trace:
+#0 /home/srsomgcd/krishihut.com/confirm_registration.php(13): mysqli_query()
+#1 {main}
+  thrown in /home/srsomgcd/krishihut.com/confirm_registration.php on line 13
+[21-Apr-2022 06:46:51 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 06:46:51 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 06:47:03 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 06:47:03 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 06:50:02 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 06:50:02 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 06:50:02 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 06:50:53 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 06:51:51 America/New_York] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/srsomgcd/krishihut.com/session.php on line 4
+[21-Apr-2022 06:51:51 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 06:51:51 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 06:52:36 America/New_York] PHP Warning:  Undefined variable $quantity in /home/srsomgcd/krishihut.com/product_details.php on line 138
+[21-Apr-2022 06:58:48 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 06:58:48 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 07:39:46 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 07:39:46 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 08:49:11 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 08:49:11 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 09:04:27 America/New_York] PHP Warning:  Undefined variable $quantity in /home/srsomgcd/krishihut.com/product_details.php on line 138
+[21-Apr-2022 10:29:05 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 10:29:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 10:53:03 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 10:53:03 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 12:18:07 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 12:18:07 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 13:22:55 America/New_York] PHP Warning:  Undefined variable $quantity in /home/srsomgcd/krishihut.com/product_details.php on line 138
+[21-Apr-2022 15:27:31 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 15:27:31 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 15:38:15 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 15:38:15 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 15:54:19 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 15:54:19 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 18:10:54 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 18:10:54 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 18:27:04 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 18:27:04 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 19:01:00 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 19:01:00 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 19:01:05 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 19:01:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 20:14:27 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 20:14:27 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 21:30:18 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 21:30:18 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 21:30:19 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 21:30:19 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 21:30:46 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 21:30:46 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 21:30:47 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 21:30:47 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[21-Apr-2022 22:54:23 America/New_York] PHP Warning:  Undefined variable $quantity in /home/srsomgcd/krishihut.com/product_details.php on line 138
+[21-Apr-2022 23:53:18 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[21-Apr-2022 23:53:18 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[22-Apr-2022 00:55:21 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[22-Apr-2022 00:55:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[22-Apr-2022 00:55:40 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[22-Apr-2022 00:55:40 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[22-Apr-2022 01:19:26 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[22-Apr-2022 01:19:26 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[22-Apr-2022 01:25:11 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[22-Apr-2022 01:25:11 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[22-Apr-2022 03:24:20 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[22-Apr-2022 03:24:20 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[22-Apr-2022 03:52:30 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[22-Apr-2022 03:52:30 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[22-Apr-2022 05:58:12 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[22-Apr-2022 05:58:12 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[22-Apr-2022 05:58:21 America/New_York] PHP Warning:  Undefined array key "id" in /home/srsomgcd/krishihut.com/product_details.php on line 4
+[22-Apr-2022 05:58:21 America/New_York] PHP Warning:  Attempt to read property "num_rows" on bool in /home/srsomgcd/krishihut.com/product_details.php on line 30
+[22-Apr-2022 05:58:31 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/session.php on line 6
+[22-Apr-2022 05:58:31 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/session.php on line 11
+[22-Apr-2022 08:11:04 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/mobile/session.php on line 6
+[22-Apr-2022 08:11:04 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/mobile/session.php on line 11
+[22-Apr-2022 08:13:17 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/mobile/session.php on line 6
+[22-Apr-2022 08:13:17 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/mobile/session.php on line 11
+[22-Apr-2022 08:13:55 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/mobile/session.php on line 6
+[22-Apr-2022 08:13:55 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/mobile/session.php on line 11
+[22-Apr-2022 08:15:39 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/mobile/session.php on line 6
+[22-Apr-2022 08:15:39 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/mobile/session.php on line 11
+[22-Apr-2022 08:18:39 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/mobile/session.php on line 6
+[22-Apr-2022 08:18:39 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/mobile/session.php on line 11
+[22-Apr-2022 08:20:59 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/mobile/session.php on line 6
+[22-Apr-2022 08:20:59 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/mobile/session.php on line 11
+[22-Apr-2022 08:21:05 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/mobile/session.php on line 6
+[22-Apr-2022 08:21:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/mobile/session.php on line 11
+[22-Apr-2022 08:22:21 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/mobile/session.php on line 6
+[22-Apr-2022 08:22:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/mobile/session.php on line 11
+[22-Apr-2022 08:37:55 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/mobile/session.php on line 6
+[22-Apr-2022 08:37:55 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/mobile/session.php on line 11
+[22-Apr-2022 09:47:04 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/mobile/session.php on line 6
+[22-Apr-2022 09:47:04 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/mobile/session.php on line 11
+[22-Apr-2022 10:37:04 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/mobile/session.php on line 6
+[22-Apr-2022 10:37:04 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/mobile/session.php on line 11
+[22-Apr-2022 10:37:09 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/mobile/session.php on line 6
+[22-Apr-2022 10:37:09 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/mobile/session.php on line 11
+[22-Apr-2022 12:18:43 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/mobile/session.php on line 6
+[22-Apr-2022 12:18:43 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/mobile/session.php on line 11
+[22-Apr-2022 15:02:09 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/mobile/session.php on line 6
+[22-Apr-2022 15:02:09 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/mobile/session.php on line 11
+[25-Apr-2022 00:31:39 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/mobile/session.php on line 6
+[25-Apr-2022 00:31:39 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/mobile/session.php on line 11
+[25-Apr-2022 00:32:26 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/mobile/session.php on line 6
+[25-Apr-2022 00:32:26 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/mobile/session.php on line 11
+[25-Apr-2022 00:54:34 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/mobile/session.php on line 6
+[25-Apr-2022 00:54:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/mobile/session.php on line 11
+[25-Apr-2022 00:55:42 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/mobile/session.php on line 6
+[25-Apr-2022 00:55:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/mobile/session.php on line 11
+[25-Apr-2022 00:56:10 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/mobile/session.php on line 6
+[25-Apr-2022 00:56:10 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/mobile/session.php on line 11
+[25-Apr-2022 00:56:47 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/mobile/session.php on line 6
+[25-Apr-2022 00:56:47 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/mobile/session.php on line 11
+[25-Apr-2022 06:42:52 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/srsomgcd/krishihut.com/mobile/session.php on line 3
+[25-Apr-2022 06:42:52 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/mobile/session.php on line 6
+[25-Apr-2022 06:42:52 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/srsomgcd/krishihut.com/mobile/session.php:9
+Stack trace:
+#0 /home/srsomgcd/krishihut.com/mobile/session.php(9): mysqli_query()
+#1 /home/srsomgcd/krishihut.com/mobile/header.php(2): include('/home/srsomgcd/...')
+#2 /home/srsomgcd/krishihut.com/mobile/index.php(1): include('/home/srsomgcd/...')
+#3 {main}
+  thrown in /home/srsomgcd/krishihut.com/mobile/session.php on line 9
+[25-Apr-2022 06:44:28 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/mobile/session.php on line 6
+[25-Apr-2022 06:44:28 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/mobile/session.php on line 11
+[25-Apr-2022 06:48:51 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/mobile/session.php on line 6
+[25-Apr-2022 06:48:51 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/mobile/session.php on line 11
+[25-Apr-2022 06:48:59 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/mobile/session.php on line 6
+[25-Apr-2022 06:48:59 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/mobile/session.php on line 11
+[30-Apr-2022 12:18:51 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/mobile/session.php on line 6
+[30-Apr-2022 12:18:51 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/mobile/session.php on line 11
+[30-Apr-2022 12:19:18 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/mobile/session.php on line 6
+[30-Apr-2022 12:19:18 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/mobile/session.php on line 11
+[30-Apr-2022 12:19:30 America/New_York] PHP Warning:  Undefined variable $quantity in /home/srsomgcd/krishihut.com/mobile/product_details.php on line 138
+[30-Apr-2022 12:19:39 America/New_York] PHP Warning:  Undefined array key "login_user" in /home/srsomgcd/krishihut.com/mobile/session.php on line 6
+[30-Apr-2022 12:19:39 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/srsomgcd/krishihut.com/mobile/session.php on line 11
